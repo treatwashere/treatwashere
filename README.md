@@ -18,13 +18,13 @@ My Goals/Next Projects: I want to get to 100,000 subscribers, I am going to make
 
 <div align="center">
   <a href="https://github.com/treatwashere" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" height="40" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" height="1000" />
   </a>
   <a href="https://twitch.tv/@treatYTT" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch" height="40" />
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch" height="1000" />
   </a>
   <a href="https://youtube.com/@treatytt?si=DHbsrHQyTSiDxNO9" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="40" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="1000" />
   </a>
 </div>
 
