@@ -17,8 +17,9 @@ My Goals/Next Projects: I want to get to 100,000 subscribers, I am going to make
 ## Socials 🔗
 
 <div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=white)](https://github.com/treatwashere) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=white)](https://youtube.com/@treatYTT)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/treatwashere)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/@treatYTT)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@treatytt?si=DHbsrHQyTSiDxNO9)
 </div>
 
 ---
