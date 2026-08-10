@@ -13,7 +13,7 @@ Hi! My name is treat!<br><br>I'm a YouTuber with 60 subscribers (at the time of 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=treatwashere&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=treatwashere&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=treatwashere&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=treatwashere&icon=0&color=0)](https://visitcount.itsvg.in)
