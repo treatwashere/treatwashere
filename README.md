@@ -1,24 +1,64 @@
-# 💫 About Me:
-Hi! My name is treat!<br><br>I'm a YouTuber with 60 subscribers (at the time of writing this) and i'm a good coder!<br><br>Another thing is that i created Memerz and GitContrib!<br><br>I like making soooooo many stuff with code that it's addicting!<br><br>My Goals/Next Projects: I want to get to 100,000 subscribers, I am going to make a MarkDown/HTML Subscriber Widget and LOTS MORE!<br>
+## Hi! I’m treat! 👋
 
+<div align="center">
+  <img src="https://github.com/treatwashere.png" width="150" height="150" style="border-radius: 50%;" />
+</div>
 
-## 🌐 Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/treatwashere) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCxbNBs0nW0XlUP7vxEia7UA) 
+I'm a YouTuber with 60 subscribers (at the time of writing this) and i'm a good coder!
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=treatwashere&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=treatwashere&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=treatwashere&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Another thing is that i created Memerz and GitContrib!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=treatwashere&theme=default&no-frame=false&no-bg=false&margin-w=4)
+I like making soooooo many stuff with code that it's addicting!
+
+My Goals/Next Projects: I want to get to 100,000 subscribers, I am going to make a MarkDown/HTML Subscriber Widget and LOTS MORE!
 
 ---
-[![](https://komarev.com/ghpvc/?username=treatwashere&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Socials 👋
+
+<div align="center">
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=white)](https://github.com/treatwashere) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=white)](https://youtube.com/@treatYTT)
+</div>
+
+---
+
+## Tech stack: 💻
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github&perline=10&theme=dark" />
+</div>
+
+---
+
+## GitHub Stats: 📊
+
+<div align="center">
+<img src="https://github-profile-maker.vercel.app/api/stats?username=treatwashere&theme=tokyonight&layout=compact&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=treatwashere&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=treatwashere&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=treatwashere&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/trophies?username=treatwashere&theme=tokyonight&column=6&row=1&margin_w=15&margin_h=15&no_frame=false&no_bg=false" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=treatwashere&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
+</div>
 
 ## Contribution Graph Snake
 
