@@ -4,14 +4,15 @@
   <img src="https://github.com/treatwashere.png" width="150" height="150" style="border-radius: 50%;" />
 </div>
 
-I'm a YouTuber with 60 subscribers (at the time of writing this) and i'm a good coder!
+## I'm a YouTuber with 60 subscribers (at the time of writing this) and i'm a good coder!
 
-Another thing is that i created Memerz and GitContrib!
+## Another thing is that i created Memerz and GitContrib!
 
-I like making soooooo many stuff with code that it's addicting!
+## I like making soooooo many stuff with code that it's addicting!
 
-My Goals/Next Projects: I want to get to 100,000 subscribers, I am going to make a MarkDown/HTML Subscriber Widget and LOTS MORE!
+## My Goals/Next Projects I want to get to 100,000 subscribers, I am going to make a MarkDown/HTML Subscriber Widget and LOTS MORE!
 
+##My best projects! [SpriteDex](https://spritedex-nine.vercel.app/) [Memerz](https://memerz-dun.vercel.app/) [Runtide](https://runtide.vercel.app/) [Resonus](https://resonus-five.vercel.app/) [GitContrib](https://gitcontrib.vercel.app/) [Docs For Stuff (WIP)](docs-for-stuff.vercel.app/)
 ---
 
 ## Socials 🔗
