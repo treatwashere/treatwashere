@@ -1,7 +1,7 @@
 ## Hi! I’m treat! 👋
 
 <div align="center">
-  <img src="https://github.com/treatwashere.png" width="150" <style> img{ border-radius=“30px”} </style>>
+  <img src="https://raw.githubusercontent.com/treatwashere/treatwashere/refs/heads/main/IMG_6104.png" width="150" height=“150”
 </img>
 </div>
 
