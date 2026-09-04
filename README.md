@@ -1,7 +1,7 @@
 ## Hi! I’m treat! 👋
 
 <div align="center">
-  <img src="https://github.com/treatwashere.png" width="150" height="150" style="border-radius: 10px;" width=“150”/>
+  <img src="https://github.com/treatwashere.png" width="150" height="150" style="border-radius: 10px;"/>
 </div>
 
 ## I'm a YouTuber with 60 subscribers (at the time of writing this) and i'm a good coder!
