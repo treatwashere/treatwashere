@@ -69,7 +69,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=treatwashere&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
+  ![](https://hit.yhype.me/github/profile?account_id=261056806)
 </div>
 
 ## Contribution Graph Snake
