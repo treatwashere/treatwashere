@@ -68,9 +68,8 @@
 
 ---
 
-<div align="center">
+
   ![Profile Views](https://komarev.com/ghpvc/?username=treatwashere)&color=8a0303&style=plastic)
-</div>
 
 ## Contribution Graph Snake
 
