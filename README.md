@@ -68,9 +68,7 @@
 
 ---
 
-<div align="center">
   ![](https://hit.yhype.me/github/profile?account_id=261056806)
-</div>
 
 ## Contribution Graph Snake
 
